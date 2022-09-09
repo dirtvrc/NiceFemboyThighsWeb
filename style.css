@@ -47,17 +47,6 @@ body{
 .h-button:active{
 	font-size: 9px;
 }
-.m-button{
-	background-color: #00FFFFFF;
-	font-size: 10px;
-	font-weight: bold;
-	padding: 5px 20px;
-	border-width: 0;
-	cursor: pointer;
-}
-.m-button:active{
-	font-size: 9px;
-}
 @media only screen and (min-width:768px){
 	.video-container video{
 		width: 100vw;
