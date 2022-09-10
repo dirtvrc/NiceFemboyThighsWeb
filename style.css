@@ -38,6 +38,8 @@ body{
 }
 .h-button{
 	background-color: #000000;
+	border-color: #000000;
+	color: #ffffff;
 	font-size: 10px;
 	font-weight: bold;
 	padding: 0px 0px;
