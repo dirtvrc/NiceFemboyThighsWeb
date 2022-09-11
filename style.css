@@ -12,6 +12,7 @@ body{
 	min-width: 100vw;
 	min-height: 100vh;
 	height: 100vh;
+	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-backgroud-size: cover;
 }
