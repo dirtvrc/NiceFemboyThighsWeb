@@ -6,12 +6,14 @@ body{
 	font-family: 'Tajawal',sans-serif;
 }
 .video-container video{
-	position: fixed;
+	position: no-repeat center center fixed;
 	right: 0;
 	bottom: 0;
 	min-width: 100vw;
 	min-height: 100vh;
 	height: 100vh;
+	-moz-background-size: cover;
+	-o-backgroud-size: cover;
 }
 .video-container{
 	z-index: 1;
