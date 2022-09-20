@@ -6,7 +6,7 @@ body{
 	font-family: 'Tajawal',sans-serif;
 }
 .video-container video{
-	position: fixed;
+	position: center fixed;
 	right: 0;
 	bottom: 0;
 	min-width: 100vw;
@@ -17,7 +17,7 @@ body{
 	z-index: 1;
 }
 .text-container{
-	position: center fixed;
+	position: fixed;
 	z-index: 2;
 	top: 0;
 	left:0;
