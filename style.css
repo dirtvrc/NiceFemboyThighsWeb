@@ -17,7 +17,7 @@ body{
 	z-index: 1;
 }
 .text-container{
-	position: fixed;
+	position: center fixed;
 	z-index: 2;
 	top: 0;
 	left:0;
