@@ -4,6 +4,7 @@ body{
 	color: white;
 	overflow-x: hidden;
 	font-family: 'Tajawal',sans-serif;
+	background-position: center top;
 }
 .footer{
   position: fixed;
