@@ -74,9 +74,12 @@ body{
 }
 @media only screen and (min-width:768px){
 	.video-container video{
-		position: fixed;
-		width: 100vw;
-		height: 100vh;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100vw;
+	min-height: 100vh;
+	height: 100vh;
 	}
 	.content h2{
 		font-size: 30px;
