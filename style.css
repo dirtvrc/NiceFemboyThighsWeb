@@ -9,7 +9,7 @@ body{
   position: fixed;
   z-index: 2;
   right: 0;
-  bottom: -1500;
+  bottom: -1250;
   height: 200vh;
   width: 100vw;
   background-color:rgba(0,0,0,0.75);
