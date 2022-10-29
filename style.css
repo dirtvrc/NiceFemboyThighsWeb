@@ -74,7 +74,7 @@ body{
 }
 @media only screen and (min-width:768px){
 	.video-container video{
-		position: fixed center;
+		right: 100;
 		width: 100vw;
 		height: auto;
 	}
