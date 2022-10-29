@@ -72,10 +72,11 @@ body{
 .h-button:active{
 	font-size: 9px;
 }
-@media only screen and (min-width:0px){
+@media only screen and (min-width:768px){
 	.video-container video{
+		position: fixed;
 		width: 100vw;
-		height: auto;
+		height: 100vh;
 	}
 	.content h2{
 		font-size: 30px;
