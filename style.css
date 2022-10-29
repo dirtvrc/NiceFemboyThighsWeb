@@ -26,7 +26,6 @@ body{
 	min-width: 100vw;
 	min-height: 100vh;
 	height: 100vh;
-	background-position: center top;
 }
 .video-container{
 	z-index: 1;
