@@ -7,7 +7,7 @@ body{
 }
 .footer{
   position: fixed;
-  z-index: 2;
+  z-index: 1;
   right: 0;
   bottom: -600;
   height: 100vh;
