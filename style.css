@@ -12,6 +12,7 @@ body{
   bottom: -600;
   height: 100vh;
   width: 100vw;
+  background-color:rgba(0,0,0,0.75);
   border: 0px solid;
   display: table;
 
@@ -34,7 +35,6 @@ body{
 	left:0;
 	height: 100vh;
 	width: 100vw;
-	background-color:rgba(0,0,0,0.75);
 	border: 0px solid;
 	display: table;
 }
