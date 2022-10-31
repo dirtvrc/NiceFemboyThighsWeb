@@ -6,12 +6,10 @@ body{
 	font-family: 'Tajawal',sans-serif;
 }
 .header {
-  padding: 60px;
+  padding: 20px;
   z-index: 10000;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
+  text-align: left;
+  font-size: 10px;
 }
 .footer{
   position: fixed;
