@@ -7,6 +7,7 @@ body{
 }
 .header {
   padding: 20px;
+  bottom: 100;
   z-index: 5;
   text-align: left;
   font-size: 10px;
