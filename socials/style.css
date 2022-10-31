@@ -7,7 +7,7 @@ body{
 }
 .header {
   padding: 12px;
-  z-index: 3;
+  z-index: 4;
   text-align: left;
   background: #FFFFFF;
   color: pink;
