@@ -7,6 +7,7 @@ body{
 }
 .header {
   padding: 60px;
+  z-index: 3;
   text-align: center;
   background: #1abc9c;
   color: white;
@@ -38,7 +39,7 @@ body{
 }
 .text-container{
 	position: fixed;
-	z-index: 3;
+	z-index: 4;
 	top: 0;
 	left:0;
 	height: 100vh;
