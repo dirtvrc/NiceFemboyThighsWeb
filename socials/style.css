@@ -9,8 +9,9 @@ body{
   padding: 12px;
   z-index: 4;
   text-align: left;
-  background: #FFFFFF;
   font-size: 10px;
+  border: 0px solid;
+  display: table;
 }
 .footer{
   position: fixed;
