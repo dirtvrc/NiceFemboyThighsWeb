@@ -10,7 +10,6 @@ body{
   z-index: 2;
   text-align: left;
   font-size: 10px;
-  background-color:rgba(0,0,0,0.85);
 }
 .footer{
   position: fixed;
