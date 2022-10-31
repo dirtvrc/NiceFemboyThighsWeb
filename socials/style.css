@@ -6,8 +6,8 @@ body{
 	font-family: 'Tajawal',sans-serif;
 }
 .header {
+  position: fixed;
   padding: 20px;
-  bottom: 1000;
   z-index: 5;
   text-align: left;
   font-size: 10px;
