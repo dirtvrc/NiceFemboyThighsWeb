@@ -120,3 +120,67 @@ body{
         background-position: 100% 0;
     }
 }
+#faq {
+  margin-top: 20px;
+}
+.accordion-item {
+    padding: 0 30px;
+}
+.accordion-section h3 {
+    font-size: 24px;
+    color: #1c81ac;
+    margin-bottom: 14px;
+    text-transform: capitalize;
+    margin-top: 0;
+    letter-spacing: 0;
+}
+section h3 {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+.panel-group {
+    margin-bottom: 0;
+}
+.accordion-section .panel-heading {
+    background-color: #ebebeb;
+    color: #323b40;
+    padding: 10px 0 12px;
+}
+.accordion-section h4.panel-title {
+    padding: 0 10px;
+    margin-bottom: 5px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    letter-spacing: 0;
+    font-weight: 400;
+}
+#faq .collapsed {
+    display: table;
+    line-height: 22px;
+}
+#faq .faq-toggle {
+    float: left;
+}
+section.faq .fa:before {
+    font-size: 20px;
+    padding-right: 8px;
+}
+.panel-group .panel-heading+.panel-collapse>.list-group, .pricing-plans-wrapper .panel-group .panel-heading+.panel-collapse>.panel-body {
+    border-top: none;
+}
+section.faq .panel-body p {
+    text-align: left;
+    font-size: 16px;
+}
+p, .ul li {
+    color: #5b666d;
+}
+ol, ul {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
