@@ -1,0 +1,9 @@
+{
+  "Name": "NAME",
+  "RequestURL": "https://DOMAIN.NAME/api/upload.php",
+  "FileFormName": "file",
+  "Arguments": {
+    "key": "INSERT KEY",
+  },
+  "URL": "$json:url$"
+}
